@@ -1,0 +1,8 @@
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,purcell,wiley,calculus
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+HandyDarmawan_2015_1,2015,Handy Darmawan,elexmedia,belajar C++
+HandyDarmawan_2015_2,2015,Handy Darmawan,gramedia,belajar python
+HandyDarmawan_2015_3,2015,Handy Darmawan,gramedia,Belajar Java OOP
+handydarmawan_2015_4,2015,handy darmawan,gramedia,competitive programming 1
+HandyDarmawan_2020_1,2020,Handy Darmawan,kelas terbuka,membagi waktu belajar
